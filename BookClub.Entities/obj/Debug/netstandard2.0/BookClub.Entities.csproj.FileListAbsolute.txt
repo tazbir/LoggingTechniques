@@ -1,0 +1,9 @@
+D:\Experiments\LoggingTechniques\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.deps.json
+D:\Experiments\LoggingTechniques\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.dll
+D:\Experiments\LoggingTechniques\BookClub.Entities\bin\Debug\netstandard2.0\BookClub.Entities.pdb
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csprojAssemblyReference.cache
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfoInputs.cache
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.AssemblyInfo.cs
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.csproj.CoreCompileInputs.cache
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.dll
+D:\Experiments\LoggingTechniques\BookClub.Entities\obj\Debug\netstandard2.0\BookClub.Entities.pdb
